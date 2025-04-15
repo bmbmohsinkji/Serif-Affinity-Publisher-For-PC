@@ -12,7 +12,7 @@ Advanced Layout Tools: Serif Affinity Publisher provides a wide range of advance
 Professional Typography: The software features advanced typography controls, including kerning, tracking, leading, and more.
 Customizable Templates: With a library of customizable templates, creating a professional-looking document in no time is easy.
 PDF Export: Serif Affinity Publisher allows you to export documents as PDFs, ensuring your designs look the same on all devices.
-Support for a Wide Range of Formats: The software supports many file formats, including JPG, PNG, TIFF, and more.
+Support for a Wide Range of Formats: The software supports many file formats, including JPG, PNG, TIFF, and more
 Easy Collaboration: With the ability to share and collaborate with others, it's easy to work on a project with team members, no matter where they are.
 
 Serif affinity publisher for pc free download
